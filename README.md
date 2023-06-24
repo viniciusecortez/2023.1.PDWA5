@@ -4,14 +4,14 @@ Repositório modelo para o projeto da disciplina de 2023.1 - PDWA5 - do IFSP
 Aluno Vinicius Cortez  <vinicius.cortez@aluno.ifsp.edu.br>  \
 Prof. Quirino         <luiz.quirino@ifsp.edu.br>
 
-## Descrição das etapas implementadas :
-- etapa 1 - xxx%
-- etapa 2 - xxx%
-- etapa 3 - xxx%
-- ...
-  Use o readme para documentar o andamento do seu projeto.
 
-## Alterações realizadas frente ao modelo de referência apresentado:
-- alteração xyz;
-- alteração xpto;
-- ...
+
+Primeiro foi implementado um servidor express basico, apenas para conseguir ser criada a api, eu nao consegui utilizar a do professor.
+com o cors permitindo todas as chamadas, claro, sabendo que isso e uma falha porem ainda sim foi necessario para conseguir concluir
+
+Depois eu utilizei as seguites tecnologias no frontend:
+
+* nextjs para gerenciar as rotas
+* mui para a modelagem de componentes
+
+
